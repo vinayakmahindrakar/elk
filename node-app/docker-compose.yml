@@ -1,0 +1,19 @@
+version: '1.0'
+services:
+  app:
+    build:
+      context: .
+    ports:
+      - '8000:8000'
+    volumes:
+      - ./logs:/usr/src/node-app/logs
+    environment:
+      NODE_ENV: production
+    depends_on:
+      - filebeat
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:6.5.4
+    volumes:
+      - ./filebeat.yml:/usr/share/filebeat/filebeat.yml
+      - ./logs:/usr/src/node-app/logs
+    user: root

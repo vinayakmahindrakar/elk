@@ -1,0 +1,18 @@
+{"@timestamp":"2023-05-16T11:27:07.253Z","log.level":"info","message":"Listening on port 8000","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T11:27:42.120Z","log.level":"info","message":"hello from container!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T11:30:28.848Z","log.level":"info","message":"hello from container!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T11:34:07.900Z","log.level":"info","message":"Listening on port 8000","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T11:37:08.104Z","log.level":"info","message":"hello from container!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T11:42:53.756Z","log.level":"info","message":"Listening on port 8000","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T11:43:20.384Z","log.level":"info","message":"hello from container!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T12:35:49.304Z","log.level":"info","message":"Listening on port 8000","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T12:38:00.350Z","log.level":"info","message":"Listening on port 8000","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T12:39:21.055Z","log.level":"info","message":"hello from container!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:11:00.083Z","log.level":"info","message":"Listening on port 8000","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:12:14.298Z","log.level":"info","message":"hello from container!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:12:50.366Z","log.level":"info","message":"I am healthy!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:17:04.557Z","log.level":"info","message":"I am healthy!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:21:49.648Z","log.level":"info","message":"I am healthy!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:21:53.955Z","log.level":"info","message":"I am healthy!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:21:54.319Z","log.level":"info","message":"I am healthy!!","ecs":{"version":"1.6.0"}}
+{"@timestamp":"2023-05-16T14:21:54.570Z","log.level":"info","message":"I am healthy!!","ecs":{"version":"1.6.0"}}
